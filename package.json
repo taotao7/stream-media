@@ -1,0 +1,27 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.2.0",
+  "description": "A minimal Electron application which demonstrates how to use Radiant Media Player with DASH and Widevine DRM",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/radiantmediaplayer/electron-quick-start.git",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "drm",
+    "html5",
+    "video",
+    "DASH",
+    "Widevine"
+  ],
+  "author": "Radiant Media Player",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "github:castlabs/electron-releases#v18.0.1+wvcus"
+  }
+}
